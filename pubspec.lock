@@ -37,11 +37,9 @@ packages:
   flutter_panda_foundation:
     dependency: "direct main"
     description:
-      path: "."
-      ref: develop
-      resolved-ref: "4fce9e9d107e4dd78f5dc2a13cb4d95a03455f65"
-      url: "git@github.com:derrick-zhu/flutter_panda_foundation.git"
-    source: git
+      path: "../flutter_panda_foundation"
+      relative: true
+    source: path
     version: "0.0.1"
   flutter_test:
     dependency: "direct dev"
