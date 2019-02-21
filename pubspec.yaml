@@ -12,9 +12,9 @@ dependencies:
     sdk: flutter
 
   flutter_panda_foundation:
-    path: ../flutter_panda_foundation/
-#    git:
-#      url: https://github.com/derrick-zhu/flutter_panda_foundation.git
+#    path: ../flutter_panda_foundation/
+   git:
+     url: https://github.com/derrick-zhu/flutter_panda_foundation.git
 #      ref: develop
 
 dev_dependencies:
